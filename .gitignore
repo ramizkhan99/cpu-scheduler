@@ -5,3 +5,4 @@ lib/cse.lib
 *.o
 *.swp
 __pycache__
+tests
